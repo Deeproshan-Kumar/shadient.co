@@ -308,6 +308,12 @@
     padding-bottom: 0;
   }
 
+  .hero .contents form .group input {
+    min-width: 20rem;
+    width: 100%;
+    padding: 1.25rem 1.5rem;
+  }
+
   .hero .contents h1,
   .hero .banner-details .title {
     font-size: 3.6rem;

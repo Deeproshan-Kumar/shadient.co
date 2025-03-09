@@ -293,7 +293,6 @@ header.header {
 }
 
 .hero .contents form .group input {
-  height: 5.2rem;
   min-width: 32rem;
   background: transparent;
   color: var(--white-clr);
@@ -301,7 +300,7 @@ header.header {
   outline: 0;
   border: 0.2rem solid var(--slate-clr);
   border-radius: 3rem;
-  padding: 1.6rem;
+  padding: 1.5rem;
 }
 
 .hero .contents form .group input:focus {
