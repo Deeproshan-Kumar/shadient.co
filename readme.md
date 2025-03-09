@@ -12,8 +12,14 @@ Article: https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.scrollerProxy()/
 Codepen: https://codepen.io/GreenSock/pen/ExPdqKy
 
 ## Table of Contents
-- Folder structure
-shadient/ ├── assets/ │ ├── fonts/ │ │ └── afrandir/ │ │ └── fonts/ │ ├── images/ │ │ ├── clients/ │ │ │ ├── img1 │ │ │ ├── img2 │ │ │ └── imgn │ │ ├── services/ │ │ │ ├── img1 │ │ │ ├── img2 │ │ │ └── imgn │ │ └── sponsors/ │ │ ├── img1 │ │ ├── img2 │ │ └── imgn │ └── other images... ├── src/ │ ├── css/ │ │ ├── app.css │ │ ├── fonts.css │ │ ├── responsive.css │ │ └── utility.css │ └── scripts/ │ └── app.js ├── index.html ├── about.html ├── services.html ├── favicon.ico └── readme.md
+### Folder Structure:
+- **assets/**: Contains fonts and images used throughout the project.
+    - **fonts/**: Includes font files like 'afrandir' and others.
+    - **images/**: Contains images divided by categories like clients, services, and sponsors.
+- **src/**: Contains the source code for styles and scripts.
+    - **css/**: Contains all CSS files for styling the application.
+    - **scripts/**: Contains JavaScript files for the application logic.
+- **HTML Files**: `index.html`, `about.html`, `services.html` serve as the core pages of the website.
 
 ## Installation
 
