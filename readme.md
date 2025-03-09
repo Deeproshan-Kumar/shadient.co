@@ -9,7 +9,7 @@ This is a dark theme based animated website built using set of libraries like sw
 
 While developing this website, I faced an issue where LocomotiveJS hijacks the scroll functionality of the entire application, preventing other scroll events from working. After researching the problem, I found an article with a code snippet that helped me fix the issue.  
 
-Article: https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.scrollerProxy()/
+Article: https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.scrollerProxy()/  
 Codepen: https://codepen.io/GreenSock/pen/ExPdqKy
 
 ## Table of Contents
