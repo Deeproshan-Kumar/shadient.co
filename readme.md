@@ -13,34 +13,7 @@ Codepen: https://codepen.io/GreenSock/pen/ExPdqKy
 
 ## Table of Contents
 - Folder structure
-shadient(root)
-- assets
-    fonts
-        afrandir
-            fonts
-    images
-        clients
-            img1, img2, ..., imgn
-        services
-            img1, img2, ..., imgn
-        sponsors
-            img1, img2, ..., imgn
-    other images...
-
-- src
-    css
-        app.css (Application Stylesheet)
-        fonts.css (Fonts Import)
-        responsive.css (Responsive CSS)
-        utility.css (Global CSS)
-    scripts
-        app.js (Application Scripts)
-index.html
-about.html
-services.html
-favicon.ico
-readme.md
-
+shadient/ ├── assets/ │ ├── fonts/ │ │ └── afrandir/ │ │ └── fonts/ │ ├── images/ │ │ ├── clients/ │ │ │ ├── img1 │ │ │ ├── img2 │ │ │ └── imgn │ │ ├── services/ │ │ │ ├── img1 │ │ │ ├── img2 │ │ │ └── imgn │ │ └── sponsors/ │ │ ├── img1 │ │ ├── img2 │ │ └── imgn │ └── other images... ├── src/ │ ├── css/ │ │ ├── app.css │ │ ├── fonts.css │ │ ├── responsive.css │ │ └── utility.css │ └── scripts/ │ └── app.js ├── index.html ├── about.html ├── services.html ├── favicon.ico └── readme.md
 
 ## Installation
 
