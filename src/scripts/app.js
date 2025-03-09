@@ -182,7 +182,7 @@ function runGSAPAnimations() {
         x: -200,
         y: -200,
         duration: 1,
-        ease: "slow",
+        ease: "power1.out",
       });
 
       gsap.from(
@@ -202,7 +202,7 @@ function runGSAPAnimations() {
           opacity: 0,
           x: 200,
           y: 200,
-          ease: "slow",
+          ease: "power1.out",
         }
       );
     }

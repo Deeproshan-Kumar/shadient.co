@@ -118,6 +118,7 @@ header.header {
   letter-spacing: 0.2rem;
   text-align: center;
   pointer-events: none;
+  opacity: 0.25;
   -webkit-text-stroke: 1px;
   -webkit-text-fill-color: transparent;
 }
@@ -193,7 +194,7 @@ header.header {
 }
 
 .hamburger.active span:nth-child(1) {
-  transform: rotate(45deg) translate(0.5rem, 0.5rem);
+  transform: rotate(45deg) translate(0.6rem, 0.6rem);
 }
 
 .hamburger.active span:nth-child(2) {
@@ -285,7 +286,9 @@ header.header {
 
 .hero .contents form .group {
   display: flex;
+  justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
   gap: 1.6rem;
 }
 
