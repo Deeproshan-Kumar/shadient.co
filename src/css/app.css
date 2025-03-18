@@ -282,7 +282,6 @@ header.header {
 
 .hero .contents form .group {
   display: flex;
-  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 1.6rem;
